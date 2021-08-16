@@ -1,0 +1,14 @@
+.photo-frame-container {
+    position: relative;
+    display: inline-block;
+}
+
+.like-bar {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    padding: 0.5rem;
+    background: rgba(221, 221, 221, 0.2);
+    border-top-right-radius: 5px;
+    cursor: pointer;
+}
